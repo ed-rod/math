@@ -1,7 +1,3 @@
-/*
- * Copyright (c) PRGX.
- * All Rights Reserved.
- */
 package uk.co.eduardo.math.geom;
 
 import org.junit.Assert;
